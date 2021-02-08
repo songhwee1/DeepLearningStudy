@@ -16,11 +16,11 @@
 
   -회귀문제: 최종적으로 임대료 등의 수치값을 '예측'하는 것
   
-  -Model: 컴퓨터 스스로 답을 찾아 data의 패턴으로 만든 기준
+  -Model: 컴퓨터 스스로 답을 찾아 ㅇata의 패턴으로 만든 기준
   
   -Training Data: 학습에 사용하는 data
   
-  -Test Data: 학습된 model의 precision를 평가할때 사용하는 data
+  -Test Data: 학습된 model의 precision를 평가할때 사용하는 ata
 
 - Unsupervised Learning
 
